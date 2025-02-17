@@ -3,8 +3,8 @@ os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 from tqdm import tqdm
 from argparse import ArgumentParser, ArgumentDefaultsHelpFormatter
 from torch.utils.data import DataLoader
-from model import SiteLevelRMNet
-from dataset import RMNetDataSet
+from .model import SiteLevelRMNet
+from .dataset import RMNetDataSet
 
 
 def detect_m6a(args):
