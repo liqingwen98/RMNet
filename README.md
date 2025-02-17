@@ -22,3 +22,7 @@ pip install .
 ```
 RMNet --input_file path_to_input_file --save_dir path_to_output --ckpt path_to_checkpoint
 ```
+
+Because of the github store limitation, the check point file can not be added to my repository. 
+
+If you need check point file or have any question, welcome to contact me: li.qing.wen@foxmail.com
