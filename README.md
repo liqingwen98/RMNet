@@ -1,5 +1,5 @@
 # RMNet
-RMNet: a RNA m6A cross-species methylation detection method for nanopore sequencing
+RMNet: an RNA m6A cross-species methylation detection method for nanopore sequencing
 ![RMNet_f1](https://github.com/user-attachments/assets/6d7db916-f1fe-41e1-a219-24eb11e47dbb)
 
 # How to install
