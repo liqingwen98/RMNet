@@ -25,6 +25,7 @@ Because of the github store limitation, the check point file can not be added to
 If you need check point file or have any question, welcome to contact me: li.qing.wen@foxmail.com
 
 # Citations
+``` bibtex
 @article{:/content/journals/cdt/10.2174/0113894501405283250627072052,
    author = "Li, Qingwen and Sun, Chen and Wang, Daqian and Lou, Jizhong",
    title = "RMNet: An RNA m6A Cross-species Methylation Detection Method for Nanopore Sequencing",
@@ -34,4 +35,5 @@ If you need check point file or have any question, welcome to contact me: li.qin
    publisher = "Bentham Science Publishers",
    doi = "https://doi.org/10.2174/0113894501405283250627072052",
 }
+``` 
 
